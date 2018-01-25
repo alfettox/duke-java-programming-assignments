@@ -1,4 +1,5 @@
 /bin
+/nc_weather
 .settings/
 .project
 .classpath
