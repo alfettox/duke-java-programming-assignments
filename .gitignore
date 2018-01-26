@@ -1,5 +1,7 @@
-/bin
-/nc_weather
+bin/
+nc_weather/
+baby_names/
+images/
 .settings/
 .project
 .classpath
